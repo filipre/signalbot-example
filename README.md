@@ -5,3 +5,7 @@ An example bot for Signal that uses the [signalbot](https://github.com/filipre/s
 ## Getting Started
 
 *Todo*
+
+## Commands
+
+*todo*
