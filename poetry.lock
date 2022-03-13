@@ -424,7 +424,7 @@ ocsp = ["cryptography (>=36.0.1)", "pyopenssl (==20.0.1)", "requests (>=2.26.0)"
 
 [[package]]
 name = "signalbot"
-version = "0.6.0a1647186748"
+version = "0.6.0"
 description = "Framework to create your own Signal bots"
 category = "main"
 optional = false
@@ -554,7 +554,7 @@ multidict = ">=4.0"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.9"
-content-hash = "98f84555974452f919c9121b0569b1667d81ecc3742c08dcc43fcfb66c8b6566"
+content-hash = "30c04a7ba3a387ce5331d29f34512467393574fa1e9eab957b933303191a14cc"
 
 [metadata.files]
 aiohttp = [
@@ -942,8 +942,8 @@ redis = [
     {file = "redis-4.1.4.tar.gz", hash = "sha256:1d9a0cdf89fdd93f84261733e24f55a7bbd413a9b219fdaf56e3e728ca9a2306"},
 ]
 signalbot = [
-    {file = "signalbot-0.6.0a1647186748-py3-none-any.whl", hash = "sha256:757c28109e9e5968b28ca13cbc1b315801131748578ca9060a71f23b7a03a71e"},
-    {file = "signalbot-0.6.0a1647186748.tar.gz", hash = "sha256:86e630489dfe7ca0b613f59752700fe7c1b1bd1aad8ee2bfafc1b7ab17950980"},
+    {file = "signalbot-0.6.0-py3-none-any.whl", hash = "sha256:5764756cbd05b25ae43afecf5c7bb68ce97746ed0cccad7172740bf5b0ac1359"},
+    {file = "signalbot-0.6.0.tar.gz", hash = "sha256:b92f1ef519ee18482a421e1f18dd0926cc754769c38490d85a8e4374fe8c5b00"},
 ]
 six = [
     {file = "six-1.16.0-py2.py3-none-any.whl", hash = "sha256:8abb2f1d86890a2dfb989f9a77cfcfd3e47c2a354b01111771326f8aa26e0254"},

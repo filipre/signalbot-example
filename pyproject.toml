@@ -6,7 +6,7 @@ version = "0.1.0"
 
 [tool.poetry.dependencies]
 python = "^3.9"
-signalbot = "0.6.0a1647186748"
+signalbot = "0.6.0"
 
 [tool.poetry.dev-dependencies]
 black = "^22.1.0"
