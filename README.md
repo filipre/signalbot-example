@@ -10,7 +10,7 @@ Please check out the example code to get an idea on how to develop your own bot 
 ```bash
 docker run -p 8080:8080 \
     -v $(PWD)/signal-cli-config:/home/.local/share/signal-cli \
-    -e 'MODE=normal' bbernhard/signal-cli-rest-api:0.57
+    -e 'MODE=normal' bbernhard/signal-cli-rest-api
 ```
 
 2. Open http://127.0.0.1:8080/v1/qrcodelink?device_name=local to link your account with the signal-cli-rest-api server
