@@ -21,7 +21,7 @@ docker run -p 8080:8080 \
 ```bash
 docker run -p 8080:8080 \
     -v $(PWD)/signal-cli-config:/home/.local/share/signal-cli \
-    -e 'MODE=json-rpc' bbernhard/signal-cli-rest-api:0.57
+    -e 'MODE=json-rpc' bbernhard/signal-cli-rest-api
 ```
 
 5. The logs should show something like this. You can also confirm that the server is running in the correct mode by visiting http://127.0.0.1:8080/v1/about.
